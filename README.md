@@ -33,8 +33,8 @@ API REST desarrollada en **C# con ASP.NET Core** para la gestión de una clínic
 ### 1️⃣ Clonar el repositorio
 
 ```bash id="x7n2k1"
-git clone https://github.com/isairey/tu-repo.git
-cd tu-repo
+git clone https://github.com/isairey/VeterinariaSis.git
+cd VeterinariaSis
 ```
 
 ---
